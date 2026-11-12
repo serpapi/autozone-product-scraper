@@ -523,7 +523,7 @@ Use SerpApi APIs without writing code:
 ## Use cases
 
 - Check whether a part fits a customer's vehicle before they buy it, with its location on the vehicle and fitment notes.
-- Build a parts catalog with each product's part number, brand, description, features, specifications, images, and safety data sheet.
+- Check that your brand's products show the right part number, specifications, and safety data sheet on AutoZone.
 - Monitor the ratings, review summaries, and review topics of your products and competing brands on AutoZone.
 - Compare the brands and sizes a part comes in, e.g., Duralast, Duralast Gold, and Duralast Platinum batteries.
 - Enrich AutoZone Search API results with full product details for the same vehicle and store.
